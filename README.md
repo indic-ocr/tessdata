@@ -35,7 +35,7 @@ Tesseract Models (Traineddata) are being made available for all the Indic Script
 
 ### Installation 
 
-Please install tesseract for your OS system <https://github.com/tesseract-ocr/tesseract/wiki> and then copy these models (traineddata files) to tessdata directory. 
+Please install tesseract for your OS system <https://github.com/tesseract-ocr/tesseract/wiki> and then copy these models (traineddata files) to tessdata (full path: /usr/share/tesseract-ocr/4.00/tessdata ) directory. 
 
 ### Future plans 
 
